@@ -4,7 +4,6 @@ import "./App.css";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-// Replace with your actual backend URL
 const baseUrl =
   "https://c8b2a57c-2ab9-4fc3-bfae-9e47fc4749d0-00-3ouqva7v2nu95.sisko.replit.dev:3001";
 
